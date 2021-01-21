@@ -9,7 +9,7 @@ body {
 
 .top {
   height: 5rem;
-  width: 100vh;
+  width: 100%;
   background-color: #123c69;
   display: flex;
   flex-direction: column;
